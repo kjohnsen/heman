@@ -9,4 +9,4 @@ for _vim_ and could never find one.
 
 ## screenshots
 
-[<img src="screenshots/screenshotsmall.png">](screenshots/screenshot.png)
+[<img src="screenshots/screenshotsmall.png">](https://raw.githubusercontent.com/rstdnull/heman/master/screenshots/screenshot.png)

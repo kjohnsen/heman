@@ -73,3 +73,23 @@ hi cRepeat			ctermfg=208		cterm=bold
 hi cConditional		ctermfg=10		cterm=bold
 hi cStatement		ctermfg=11		cterm=bold
 hi cTodo            ctermfg=11		ctermbg=0		cterm=standout
+
+" ruby
+hi rubyInclude      ctermfg=208     cterm=bold
+hi rubyModule       ctermfg=10      cterm=bold
+hi rubyClass        ctermfg=215     cterm=bold
+hi rubyClassDeclaration     ctermfg=215
+hi rubyModuleDeclaration        ctermfg=220
+hi rubyConstant     ctermfg=69
+hi rubyLocalVariableOrMethod        ctermfg=171
+hi rubyRegexp       ctermfg=93b4ff
+hi rubyRegexpAnchor     ctermfg=215
+hi rubyRegexpCharClass      ctermfg=51
+hi rubyBoolean      ctermfg=9
+hi rubySymbol       ctermfg=201
+hi rubyDefine       ctermfg=10      cterm=bold
+hi rubyfloat        ctermfg=51
+hi rubyCurlyBlock       ctermfg=215
+hi rubyTodo     ctermfg=11      ctermbg=0       cterm=standout
+hi rubyInteger      ctermfg=69
+

@@ -1,3 +1,5 @@
+![language](https://img.shields.io/badge/language-C-lightgrey.svg)
+
 # heman
 
 <img src="screenshots/hemanvim3.png" alt="heman color palette">

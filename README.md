@@ -1,6 +1,6 @@
-<p align="center">
 ![language](https://img.shields.io/badge/C%20language-support-brightgreen.svg)
 
+<p align="center">
 # heman
 
 <img src="screenshots/hemanvim3.png" alt="heman color palette">

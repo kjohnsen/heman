@@ -71,7 +71,7 @@ hi link cComment		Comment
 " TODO: update ruby support
 " minor support for rupy mostly for presentation at vimcolors.com
 hi link rubyInclude		Include
-hi link rubyModule		cDefine
+hi link rubyModule		Conditional
 hi link rubyClass		Structure
 hi link rubyClassDeclaration	Constant
 hi link rubyConstant		Constant

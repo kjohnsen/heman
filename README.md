@@ -1,8 +1,6 @@
-![language](https://img.shields.io/badge/C%20language-support-brightgreen.svg)
+<p align="center"><img src="screenshots/hemanvim3.png"></p>
   
 # heman
-
-<img src="screenshots/hemanvim3.png" alt="heman color palette">
 
 The **heman** theme is inspired by
 the 90es rainbow color palette.

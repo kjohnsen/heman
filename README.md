@@ -24,7 +24,7 @@ for _vim_ and could not find one, so i decided to make one!
 <br>
 <p align="left"><img src="screenshots/colorsHeman.png"></p>
 
-# supported languages:
+# FULL support for:
 + **C**
 + ruby
 + css

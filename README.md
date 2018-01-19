@@ -1,4 +1,4 @@
-<p align="center"><img src="screenshots/hemanLogo2"></p>
+<p align="center"><img src="screenshots/hemanLogo2.png"></p>
   
 # heman
 

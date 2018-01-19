@@ -19,6 +19,11 @@ for _vim_ and could not find one, so i decided to make one!
 #### css
 [<img src="screenshots/screen3small.png">](https://raw.githubusercontent.com/rstdnull/heman/master/screenshots/screen3big.png)
 
+## color table
+<p align="center"><img src="screenshots/colors.png"></p>
+<br>
+<p align="center"><img src="screenshots/colorsHeman.png"></p>
+
 # supported languages:
 + **C**
 + ruby

@@ -1,5 +1,5 @@
 me:			heman.vim
-" Version:		0.1
+" Version:		0.2
 " Maintainer:		<https://github.com/rstdnull>
 
 

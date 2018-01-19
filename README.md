@@ -22,7 +22,7 @@ for _vim_ and could not find one, so i decided to make one!
 ## color table
 <p align="center"><img src="screenshots/colors.png"></p>
 <br>
-<p align="center"><img src="screenshots/colorsHeman.png"></p>
+<p align="left"><img src="screenshots/colorsHeman.png"></p>
 
 # supported languages:
 + **C**

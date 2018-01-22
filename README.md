@@ -11,13 +11,19 @@ for _vim_ and could not find one, so i decided to make one!
 ## screenshots
 
 #### C
+<p align="left">
 [<img src="screenshots/screen1small.png">](https://raw.githubusercontent.com/rstdnull/heman/master/screenshots/screen1big.png)
+</p>
 
 #### ruby
+<p align="right">
 [<img src="screenshots/screen2small.png">](https://raw.githubusercontent.com/rstdnull/heman/master/screenshots/screen2big.png)
+</p>
 
 #### css
+<p align="left">
 [<img src="screenshots/screen3small.png">](https://raw.githubusercontent.com/rstdnull/heman/master/screenshots/screen3big.png)
+</p>
 
 ## color table
 <p align="center"><img src="screenshots/colors.png"></p>

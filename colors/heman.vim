@@ -1,6 +1,6 @@
 me:			heman.vim
 " Version:		0.2
-" Maintainer:		<https://github.com/rstdnull>
+" Maintainer:		<https://github.com/devnul1>
 
 
 set background=dark

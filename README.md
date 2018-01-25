@@ -1,5 +1,5 @@
 <p align="center"><img src="screenshots/hemanLogo2.png"></p>
-  
+
 # heman
 
 The **heman** theme is inspired by
@@ -26,5 +26,13 @@ for _vim_ and could not find one, so i decided to make one!
 
 # FULL support for:
 + **C**
-+ ruby
-+ css
++ Ruby
++ **CSS**
++ Go
++ HTML
++ Java
++ JavaScript
++ **Markdown**
++ **Shell Script**
+
+(Languages that i find look really good are **bold**)

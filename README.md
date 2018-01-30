@@ -4,7 +4,7 @@
 
 The **heman** theme is inspired by
 the 80es rainbow color palette.
-I did search for a heman color theme
+I did search for a He-Man color theme
 for _vim_ and could not find one, so i decided to make one!
 
 This colorscheme supports Terminal and Graphical vim.
